@@ -14,7 +14,7 @@
 - Learn 3D modelling & animation
 - Publish my first game
 
-## 📫 How to reach me:
+## How to reach me:
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-darkblue?logo=linkedin)](https://linkedin.com/in/yourprofile)  unfinished
 - [![Email](https://img.shields.io/badge/Email-white?logo=gmail)](mailto:b.stanisavljevic.dev@gmail.com)  
 - [![YouTube](https://img.shields.io/badge/YouTube-darkred?logo=youtube)](https://www.youtube.com/@Bogdanity10kGameDev)
