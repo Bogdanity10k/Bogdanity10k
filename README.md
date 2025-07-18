@@ -19,7 +19,7 @@
 
 - 📫 How to reach me:
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/yourprofile)  unfinished
-- [![Email](https://img.shields.io/badge/Email-red?logo=gmail)](mailto:b.stanisavljevic.dev@gmail.com)  
+- [![Email](https://img.shields.io/badge/Email-green?logo=gmail)](mailto:b.stanisavljevic.dev@gmail.com)  
 - [![YouTube](https://img.shields.io/badge/YouTube-red?logo=youtube)]([https://www.youtube.com/@Bogdanity10kGameDev])
 
 - ⚡ Fun fact: I started my Game Dev journey because I wanted to make a Cats Are Liquid fangame!
