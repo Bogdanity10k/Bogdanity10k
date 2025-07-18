@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hello, I'm Bogdan (Bogdanity10k)
 
-<!--
-**Bogdanity10k/Bogdanity10k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me:
+- Passionate about factory and automation games
+- Currently improving my Unity and C# skills
+- Solo game dev
 
-Here are some ideas to get you started:
+## Skills:
+- Unity (Beginner)
+- C# (2nd year learning)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Goals:
+- Master Unity
+- Master C#
+- Learn 3D modelling & animation
+
+- 🔭 I’m currently working on improving my Unity and C# skills
+- 🤔 I’m looking for help with
+
+- 📫 How to reach me:
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/yourprofile)  unfinished
+- [![Email](https://img.shields.io/badge/Email-Me-red?logo=gmail)](mailto:b.stanisavljevic.dev@gmail.com)  
+- [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?logo=youtube)]([https://www.youtube.com/@Bogdanity10kGameDev])
+
+- ⚡ Fun fact: I started my Game Dev journey because I wanted to make a Cats Are Liquid fangame!
